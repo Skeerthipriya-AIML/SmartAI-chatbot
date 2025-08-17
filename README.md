@@ -58,7 +58,7 @@ Smart AI chat bot/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Skeerthipriya-AIML/Smart-AI-chatbot
+   git clone https://github.com/Skeerthipriya-AIML/SmartAI-chatbot
    cd smart-ai-chatbot
    ```
 
@@ -113,6 +113,7 @@ Created by **KEERTHI PRIYA**
 
 
 ---
+
 
 
 
