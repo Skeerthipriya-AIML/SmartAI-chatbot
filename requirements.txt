@@ -1,0 +1,5 @@
+Flask
+speechRecognition
+pyttsx3
+python-dotenv
+google-generativeai
