@@ -78,8 +78,7 @@ Smart AI chat bot/
 
 5. **Run the app:**
    ```
-   bash
-  python smart-mirror-webapp.py
+    python smart-mirror-webapp.py
    ```
 
 6. **Open your browser:**
@@ -114,6 +113,7 @@ Created by **KEERTHI PRIYA**
 
 
 ---
+
 
 
 
