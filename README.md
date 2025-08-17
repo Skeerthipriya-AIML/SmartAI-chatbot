@@ -77,7 +77,8 @@ Smart AI chat bot/
    - Create a `.env` file and write as: G00GLE_API_KEY="Your_API_key_here" (Secure way to store your private keys)
 
 5. **Run the app:**
-   ```bash
+   ```
+   bash
   python smart-mirror-webapp.py
    ```
 
@@ -113,6 +114,7 @@ Created by **KEERTHI PRIYA**
 
 
 ---
+
 
 
 
